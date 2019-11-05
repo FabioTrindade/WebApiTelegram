@@ -1,0 +1,14 @@
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\bin\Debug\netcoreapp2.2\WebApiTelegram.deps.json
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\bin\Debug\netcoreapp2.2\WebApiTelegram.runtimeconfig.json
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\bin\Debug\netcoreapp2.2\WebApiTelegram.runtimeconfig.dev.json
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\bin\Debug\netcoreapp2.2\WebApiTelegram.dll
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\obj\Debug\netcoreapp2.2\WebApiTelegram.csprojAssemblyReference.cache
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\obj\Debug\netcoreapp2.2\WebApiTelegram.csproj.CoreCompileInputs.cache
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\obj\Debug\netcoreapp2.2\WebApiTelegram.RazorAssemblyInfo.cache
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\obj\Debug\netcoreapp2.2\WebApiTelegram.RazorAssemblyInfo.cs
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\obj\Debug\netcoreapp2.2\WebApiTelegram.AssemblyInfoInputs.cache
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\obj\Debug\netcoreapp2.2\WebApiTelegram.AssemblyInfo.cs
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\obj\Debug\netcoreapp2.2\WebApiTelegram.RazorTargetAssemblyInfo.cache
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\bin\Debug\netcoreapp2.2\WebApiTelegram.pdb
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\obj\Debug\netcoreapp2.2\WebApiTelegram.dll
+C:\Users\MestreYoda\source\repos\WebApiTelegram\WebApiTelegram\obj\Debug\netcoreapp2.2\WebApiTelegram.pdb
